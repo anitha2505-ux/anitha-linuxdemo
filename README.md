@@ -13,3 +13,11 @@ In linux absolute file path begins with a / (/ is not the root directory)
 
 touch pages/index.html - relative path
 sometimes ./ to start a relative path
+
+# how to use git in the terminal
+git status -- show all the new, modified and deleted files in the current git repo and their status
+
+git add . -- stage all files that are new or modified
+git commit -- must write commit message in the editor and close the tab
+git push -- push to remote
+
